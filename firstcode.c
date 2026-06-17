@@ -4,8 +4,3 @@ int main(){
     return 0;
 }
 // /n is called escape sequence which is used to print a new line.
-/* nn
-
-nn
-nn/n/nnn/n
-*/
