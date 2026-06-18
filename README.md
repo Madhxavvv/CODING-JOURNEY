@@ -24,7 +24,8 @@ I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student 
 ## Programs Completed
 
 * [x] First Program
-* [x] Variables
+* [x] Variables and Data Types
+* [x] Input and Output
 
 ## Learning Goal
 
