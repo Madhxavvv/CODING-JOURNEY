@@ -49,6 +49,15 @@ C-LEARNING
 ├── area_of_rectangle_hard_coded.c
 ├── area_of_rectangle_user_inputs.c
 ├── celsius_to_fahrenheit.c
+├── instructions.c
+├── Assignment_operators.c
+├── Increment_operators.c
+├── Logical_Operators.c
+├── arithmetic_Operators.c
+├── relational_Operators.c
+├── type_conversion.c
+├── typecasting.c
+├── divisor_checker.c
 ├── README.md
 ```
 
