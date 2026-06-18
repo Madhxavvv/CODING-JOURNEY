@@ -5,4 +5,4 @@ int main() {
     return 0;
 }
 
-// \n is an escape sequence used to move the cursor to the next line.
+ // \n is an escape sequence used to move the cursor to the next line.
