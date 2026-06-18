@@ -1,25 +1,59 @@
-# CODING JOURNEY 🚀
+# C LEARNING 💻
 
-Hi, I'm Madhav.
+Welcome to my C Programming learning repository.
 
-This repository documents my programming journey from a complete beginner to becoming an AI/ML Engineer.
+I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student currently building a strong foundation in programming through C.
 
-## Roadmap
+## Planned Topics
 
-- ⏳ C Programming
-- [ ] C++
-- [ ] Object-Oriented Programming
-- [ ] Data Structures & Algorithms
-- [ ] Python
-- [ ] Machine Learning
-- [ ] Deep Learning
+* Variables and Data Types
+* Input and Output
+* Operators
+* Conditional Statements
+* Loops
+* Pattern Printing
+* Functions
+* Recursion
+* Arrays
+* Strings
+* Pointers
+* Structures
+* Sorting (TIME AND SPACE ANALYSIS)
+* File Handling
 
-## Current Focus
-Learning C Programming from scratch.
+## Programs Completed
 
-## Goal
-Build a strong programming foundation and prepare for AI/ML development.
+* [x] First Program
+* [x] Variables and Data Types
+* [x] Input and Output
 
-Linkedin : https://www.linkedin.com/in/madhav-kumar-217517417/?skipRedirect=true
+## Learning Goal
 
-C LEARNING : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARNING
+To develop strong programming and problem-solving skills that will help me in:
+
+* Data Structures & Algorithms
+* C++
+* Python
+* Artificial Intelligence & Machine Learning
+
+## Repository Structure
+
+```text
+C-LEARNING
+│
+├── firstprogram.c
+├── variables.c
+├── input_output.c
+├── area_of_circle_volume_of_cylinder.c
+├── area_of_rectangle_hard_coded.c
+├── area_of_rectangle_user_inputs.c
+├── celsius_to_fahrenheit.c
+├── README.md
+```
+
+## Progress
+
+This repository will be updated regularly as I continue learning and practicing C Programming.
+
+⭐ Learning one program at a time.
+
