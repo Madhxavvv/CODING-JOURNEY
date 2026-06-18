@@ -4,7 +4,7 @@ Welcome to my C Programming learning repository.
 
 I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student currently building a strong foundation in programming through C.
 
-## Topics Covered
+## Planned Topics
 
 * Variables and Data Types
 * Input and Output
