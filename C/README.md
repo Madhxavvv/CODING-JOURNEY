@@ -27,6 +27,7 @@ I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student 
 * [x] Variables and Data Types
 * [x] Input and Output
 * [x] Operators
+* [x] Conditional Statements
 
 ## Learning Goal
 
@@ -58,6 +59,19 @@ C-LEARNING
 ├── type_conversion.c
 ├── typecasting.c
 ├── divisor_checker.c
+├── grades.c
+├──if_condition.c
+├──if_else-if.c
+├──if_else.c
+├──nested_if.c
+├──non_zero.c
+├──switch.c
+├──ternary.c
+├──INCOME_TAX_CALCULATOR.c
+├──Leap_Year_Checker.c
+├──PASS_FAIL_CHECKER.c
+├──greatest.c
+├──lowercase.c
 ├── README.md
 ```
 
