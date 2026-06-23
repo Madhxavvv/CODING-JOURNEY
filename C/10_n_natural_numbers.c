@@ -10,7 +10,7 @@ int main()
     scanf("%d", &n);
     do
     {
-        printf("%d", i);
+        printf("%d\n", i);
         i++;
     } while (i <= n);
     return 0;
