@@ -1,3 +1,5 @@
+//Write a program to print first n natural number using for loop
+
 #include <stdio.h>
 int main(){
     int i;
