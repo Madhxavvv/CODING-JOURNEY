@@ -9,10 +9,11 @@ int main(){
         if(i==3){
             continue; //continue makes the loop to skip that iteration and move forward
         }
+        printf("%d\n",i);
+
         if(i==7){
             break; // break makes the loop to exit on that iteration
         }
-        printf("%d\n",i);
 
     }
     return 0;
