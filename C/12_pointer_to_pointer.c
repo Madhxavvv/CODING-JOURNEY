@@ -8,3 +8,7 @@ int main(){
     printf("The value of i is %d\n", *(*k));
     return 0;
 }
+
+// * and & cuts themselves like we do in division
+// It means *(&i) = i
+// **&j = **&&i = i
