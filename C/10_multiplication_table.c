@@ -1,4 +1,4 @@
-// Write a program to print factorial of a number
+// Write a program to print multiplication table of a number
 
 #include <stdio.h>
 int main(){
@@ -6,12 +6,10 @@ int main(){
     int n;
     printf("Enter value of n: ");
     scanf("%d", &n);
-    int product = 1;
-    for(i=n;i;i--){
-        product = product*i;
+    for(int i = 1; i<=10; i++){
+        product = n*i;
         printf("%d\n", product);
     }
-    printf("The factorial of %d is %d", n, product);
     return 0;
 
 }
