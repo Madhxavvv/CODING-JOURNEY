@@ -8,6 +8,7 @@ This repository documents my programming journey from a complete beginner to bec
 
 - [x] C Programming
 - [ ] C++
+- [ ] Web Development
 - [ ] Object-Oriented Programming
 - [ ] Data Structures & Algorithms
 - [ ] Python
