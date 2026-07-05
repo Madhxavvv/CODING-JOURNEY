@@ -11,15 +11,14 @@ I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student 
 * Operators
 * Conditional Statements
 * Loops
-* Pattern Printing
 * Functions
 * Recursion
 * Arrays
 * Strings
 * Pointers
 * Structures
-* Sorting (TIME AND SPACE ANALYSIS)
 * File Handling
+* Dynamic Memory Allocation
 
 ## Programs Completed
 
@@ -29,6 +28,14 @@ I am Madhav, a B.Tech Artificial Intelligence & Machine Learning (AIML) student 
 * [x] Operators
 * [x] Conditional Statements
 * [x] Loops
+* [x] Functions
+* [x] Recursion
+* [x] Arrays
+* [x] Strings
+* [x] Pointers
+* [x] Structures
+* [x] File Handling
+* [x] Dynamic Memory Allocation
 
 ## Learning Goal
 
@@ -36,6 +43,7 @@ To develop strong programming and problem-solving skills that will help me in:
 
 * Data Structures & Algorithms
 * C++
+* Web Development
 * Python
 * Artificial Intelligence & Machine Learning
 
@@ -43,7 +51,6 @@ To develop strong programming and problem-solving skills that will help me in:
 
 
 
-## Progress
 
 This repository will be updated regularly as I continue learning and practicing C Programming.
 
