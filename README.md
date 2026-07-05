@@ -6,7 +6,7 @@ This repository documents my programming journey from a complete beginner to bec
 
 ## Roadmap
 
-- ⏳ C Programming
+- [x] C Programming
 - [ ] C++
 - [ ] Object-Oriented Programming
 - [ ] Data Structures & Algorithms
