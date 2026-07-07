@@ -16,7 +16,7 @@ This repository documents my programming journey from a complete beginner to bec
 - [ ] Deep Learning
 
 ## Current Focus
-Learning C Programming from scratch.
+Learning C++ Programming / WEB-DEV from scratch
 
 ## Goal
 Build a strong programming foundation and prepare for AI/ML development.
