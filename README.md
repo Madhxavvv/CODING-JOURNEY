@@ -23,7 +23,7 @@ Build a strong programming foundation and prepare for AI/ML development.
 
 Linkedin : https://www.linkedin.com/in/madhav-kumar-217517417/?skipRedirect=true
 
-C LEARNING : https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARNING
+C LEARNING : [https://github.com/Madhxavvv/CODING-JOURNEY/tree/C-LEARNING](https://github.com/Madhxavvv/CODING-JOURNEY/tree/main/C)
 
 C++ AND DSA : https://github.com/Madhxavvv/CODING-JOURNEY/tree/main/C%2B%2B%20AND%20DSA
 
