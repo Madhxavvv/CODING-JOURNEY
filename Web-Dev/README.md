@@ -2,8 +2,6 @@
 
 This folder contains my Web Development learning journey.
 
-## Learning Resource
-- PW Coding & Web Development Course
 
 ## Contents
 - HTML
