@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novell Service Login</title>
+</head>
+<body>
+    <div><h2 style="text-align: center;"><strong>Novell Services Login</strong></h2>
+        <form action="Welcomepage.html" target="_blank">
+            <fieldset>
+                <br>
+                <br>
+                <label for="User"> Username :</label>
+                <input type="text" id="User" required>
+                <br>
+                <br>
+                <label for="Password"> Password :</label>
+                <input type="password" id="Password" required>
+                <br>
+                <br>
+                <label for="City"> City of <br> Employment: </label>
+                <input type="text" id="City" required">
+                <br>
+                <br>
+                <label for="Server"> Web server: </label>
+                <select name="Server" id="Server">
+                    <option value="default">---Choose a Server---</option>
+                    <option value="mumbai">Mumbai</option>
+                    <option value="kolkata">Kolkata</option>
+                    <option value="chennai">Chennai</option>
+                    <option value="delhi">Delhi</option>
+                </select>
+                <br>
+                <br>
+                <br>
+                <input type="radio" id="Admin" style="margin-left: 116px;" name="Role" required>
+                <label for="Admin"> Admin</label>
+                <br>
+                <label for="Role"> Please specify </label>
+                <input type="radio" id="Engineer" name="Role" style="margin-left: 20px;">
+                <label for="Engineer"> Engineer </label>
+                <br>
+                <label for="Role"> your role: </label>
+                <input type="radio" id="Manager" name="Role" required style="margin-left: 49px;">
+                <label for="Manager"> Manager </label>
+                <br>
+                <input type="radio" id="Guest" name="Role" required style="margin-left: 115px;">
+                <label for="Guest"> Guest </label>
+                <br>
+                <br>
+                <br>
+                <input type="checkbox" id="Mail" name="Check" style="margin-left: 115px;">
+                <label for="Mail"> Mail </label>
+                <br>
+                <label for="Sign">Single Sign-on</label>
+                <input type="checkbox" id="Payroll" name="Check" style="margin-left: 15px;">
+                <label for="Payroll"> Payroll </label>
+                <br>
+                <label for="Sign">to the following: </label>
+                <input type="checkbox" id="Self" name="Check">
+                <label for="Self"> Self-service</label>
+                <br>
+                <br>
+                <br>
+                <button type="submit" style="margin-left: 105px; padding-right: 15px; border-color: aqua">Login</button>
+                <button type="reset" style="border-color: red; padding-right: 15px">Reset</button>
+
+
+
+
+            </fieldset>
+
+
+        </form>
+    
+    
+    
+    </div>
+    
+</body>
+</html>
