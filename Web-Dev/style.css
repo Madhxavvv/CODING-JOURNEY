@@ -1,0 +1,29 @@
+#adi{
+    font-family: 'Courier New', Courier, monospace;
+}
+#madhav{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#kunal{
+    text-shadow: -1px -1px 10px red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#vidhit{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    font-weight: bolder;
+    font-style: italic;
+    font-variant: small-caps;
+}
+p{
+    line-height: 100px;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-indent: 100px;
+
+}
+
