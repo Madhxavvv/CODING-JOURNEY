@@ -1,0 +1,40 @@
+/* b{
+    color: violet;
+}
+a{
+    background-color: aqua;
+}
+ul{
+    color: orange;
+}
+.neela{
+    color: blue;
+} */
+
+/* // DESCENDANT COMBINATOR */
+div h1{  
+    color: grey;
+}
+/* Child Combinator */
+div>p{
+    color: blue;
+}
+/* ADJACENT SIBLING COMBINATOR */
+
+h1+h2 {
+    color: aqua;
+}
+
+/* GENERAL SIBLING COMBINATOR */
+
+p~p {
+    color: black;
+}
+
+ul:first-child{
+    color: red;
+}
+
+li:hover{
+    padding: 100px;
+}
