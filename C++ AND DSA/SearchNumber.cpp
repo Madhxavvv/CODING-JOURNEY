@@ -32,8 +32,13 @@ int main(){
     for(int i=0; i<n; i++){
         cin>>arr[i];
     }
+    int j = 0;
     for(int i=0;i<n;i++){
-        if(arr[i]==num) flag = true;
+        if(arr[i]==num){
+            flag = true;
+            // j = i;
+            cout<<"Element found at "<<i<<endl;
+        }
     }
     if(flag){
         cout<<"Element found";
